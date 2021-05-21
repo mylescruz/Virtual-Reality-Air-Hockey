@@ -1,2 +1,2 @@
 # Virtual-Reality-Air-Hockey
-VR Air Hockey is an Oculus application that allows a user to play their favorite arcade game anywhere they want.
+To view the project, the progress and other information about the developer, check out: http://compsci04.snc.edu/cs460/2021/cruzmv/
